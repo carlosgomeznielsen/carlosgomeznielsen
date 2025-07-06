@@ -5,18 +5,27 @@
 
 ### Acerca de mí | About me
 
-Mí nombre es Carlos. Soy desarrollador y estudiante de programación.<br>
-Soy de Buenos Aires, Argentina.
+Mí nombre es Carlos.<br>
+Me encuentro diplomado en Python.<br>
+Soy estudiente en el Curso de Programador Web Inicial - Front End Developer.<br>
+Vivo en Buenos Aires, Argentina.<br>
+Actualmente, encuentro abierto a nuevas oportunidades laborales.<br>
+
+My name is Carlos.<br>
+I have a Python degree.<br>
+I'm currently studying for the Beginner Web Programmer - Front-End Developer Course.<br>
+I live in Buenos Aires, Argentina.<br>
+I'm currently open to new job opportunities.<br>
 
 ### Lenguajes y herramientas que utilizo | Languages ​​and tools I use
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=0277BD)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=FF6D00)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=purple)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0288D1)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black&color=F4511E)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=454545)
 
 ### Análisis de GitHub | GitHub Analytics
 
