@@ -29,6 +29,8 @@ I'm currently open to new job opportunities.<br>
 
 ### Análisis de GitHub | GitHub Analytics
 
+[comentario]: <> (se agrego &cache_seconds=1800 para actualizar cada 30 minutos las estadisticas de github)
+
 <p align="center">
 <a href="https://github.com/carlosgomeznielsen">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosgomeznielsen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
