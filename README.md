@@ -7,13 +7,15 @@
 
 Mí nombre es Carlos.<br>
 Me encuentro diplomado en Python.<br>
-Soy estudiente en el Curso de Programador Web Inicial - Front End Developer.<br>
+Me encuentro recibido del Curso de Programador Web Inicial - Front End Developer.<br>
+Soy estudiente de la Tecnicatura Universitaria en Programación.<br>
 Vivo en Buenos Aires, Argentina.<br>
 Actualmente, encuentro abierto a nuevas oportunidades laborales.<br>
 
 My name is Carlos.<br>
 I have a Python degree.<br>
-I'm currently studying for the Beginner Web Programmer - Front-End Developer Course.<br>
+I have completed the Introductory Web Programmer – Front End Developer course.
+I am a student in the University Technical Career in Programming.<br>
 I live in Buenos Aires, Argentina.<br>
 I'm currently open to new job opportunities.<br>
 
@@ -37,4 +39,5 @@ I'm currently open to new job opportunities.<br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosgomeznielsen&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
 </a>
 </p>
+
 
